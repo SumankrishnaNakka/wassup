@@ -8,6 +8,6 @@ public class inbox
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello Fucking World!" );
     }
 }
